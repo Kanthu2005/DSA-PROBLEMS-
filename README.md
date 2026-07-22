@@ -7,16 +7,16 @@ This repository contains my daily solutions to Data Structures and Algorithms (D
 ## Topics Covered
 - Arrays
 - Strings
+- Hashing
+- Searching & Sorting
+- Binary Search
 - Linked Lists
 - Stacks & Queues
-- Trees & BST
+- Trees & Binary Search Trees (BST)
 - Graphs
-- Dynamic Programming
-- Greedy Algorithms
 - Recursion & Backtracking
-- Searching & Sorting
-- Hashing
-- Binary Search
+- Greedy Algorithms
+- Dynamic Programming
 
 ## Languages
 - Java
